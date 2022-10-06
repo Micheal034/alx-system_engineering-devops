@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown 755 find . -type d #present location
+sudo chown 755 . -R
